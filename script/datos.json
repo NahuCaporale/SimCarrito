@@ -1,0 +1,137 @@
+
+[{
+    "id": 1,
+    "marca": "Champion",
+    "modelo": "Reverse Weave hoodie",
+    "color": "White",
+    "cat": "Buzo",
+    "price": 12000,
+    "img": "https://res.cloudinary.com/naustorage/image/upload/v1625767316/Ropa/Buzochampionwhite.jpg"
+  },
+  {
+    "id": 2,
+    "marca": "Champion",
+    "color": "Black",
+    "modelo": "Powerblend hoodie",
+    "cat": "Buzo",
+    "price": 12000,
+    "img": "https://res.cloudinary.com/naustorage/image/upload/v1625767334/Ropa/Buzochampionnegro_aa3ozm.jpg"
+  },
+  {
+    "id": 3,
+    "marca": "Nike x Supreme",
+    "modelo": "Hooded jacket SS19",
+    "color": "Black",
+    "cat": "Buzo",
+    "price": 20000,
+    "img": "https://res.cloudinary.com/naustorage/image/upload/v1628209236/Ropa/209762588_202748864969962_1198769063704713_n_ie2soq.jpg"
+  },
+  {
+    "id": 4,
+    "marca": "Ripndip",
+    "color": "Batik",
+    "modelo": "Rubber Logo Hoodie ",
+    "cat": "Buzo",
+    "price": 13500,
+    "img": "https://res.cloudinary.com/naustorage/image/upload/v1625767362/Ropa/ripndipp_tyw2bi.jpg"
+  },
+  {
+    "id": 5,
+    "marca": "Adidas",
+    "modelo": "Jogging Adidas",
+    "color": "Black",
+    "cat": "Pantalones",
+    "price": 4500,
+    "img": "https://res.cloudinary.com/naustorage/image/upload/v1626229753/Ropa/57414286_1074212199455225_8776742311040804171_n_exmzdw.jpg"
+  },
+  {
+    "id": 6,
+    "marca": "Tommy Hilfiger",
+    "modelo": "Jogging Tommy Hilfiger",
+    "color": "Pink",
+    "cat": "Pantalones",
+    "price": 9200,
+    "img": "https://res.cloudinary.com/naustorage/image/upload/v1626229433/Ropa/60659007_116448179594533_2075046449809481972_n_tzb4r3.jpg"
+  },
+  {
+    "id": 7,
+    "marca": "Kani",
+    "modelo": "Jogging Kani",
+    "color": "Blue",
+    "cat": "Pantalones",
+    "price": 5500,
+    "img": "https://res.cloudinary.com/naustorage/image/upload/v1626229699/Ropa/200531258_161372182697043_5145354977012724141_n_bitzsj.jpg"
+  },
+  {
+    "id": 8,
+    "marca": "Champions",
+    "modelo": "Jogging Champion",
+    "color": "Black",
+    "cat": "Pantalones",
+    "price": 10500,
+    "img": "https://res.cloudinary.com/naustorage/image/upload/v1628208714/Ropa/75341423_203983083953615_7081888884769119324_n_airvhc.jpg"
+  },
+  {
+    "id": 9,
+    "marca": "Nike",
+    "modelo": "Airmax 95",
+    "color": "Pink",
+    "cat": "Zapatillas",
+    "price": 22000,
+    "img": "https://res.cloudinary.com/naustorage/image/upload/v1625767344/Ropa/airmax95pink_la24oj.jpg"
+  },
+  {
+    "id": 10,
+    "marca": "Nike",
+    "modelo": "Airmax 97",
+    "color": "Nike day",
+    "cat": "Zapatillas",
+    "price": 25500,
+    "img": "https://res.cloudinary.com/naustorage/image/upload/v1625767364/Ropa/airmax97haveanikeday_ybt4au.jpg"
+  },
+  {
+    "id": 11,
+    "marca": "Nike",
+    "modelo": "Air force",
+    "color": "White",
+    "cat": "Zapatillas",
+    "price": 17000,
+    "img": "https://res.cloudinary.com/naustorage/image/upload/v1625767341/Ropa/Airforce1xoffwhite_wpcrs5.jpg"
+  },
+  {
+    "id": 12,
+    "marca": "Nike",
+    "modelo": "Airmax 90",
+    "color": "Whoterspoon",
+    "cat": "Zapatillas",
+    "price": 18500,
+    "img": "https://res.cloudinary.com/naustorage/image/upload/v1625767362/Ropa/Airmax97_ti2d5o.jpg"
+  },
+  {
+    "id": 13,
+    "marca": "Nike",
+    "modelo": "Jordan Retro 1",
+    "color": "Barely Orange",
+    "cat": "Zapatillas",
+    "price": 62700,
+    "img": "https://res.cloudinary.com/naustorage/image/upload/v1629675329/Ropa/240466633_422883729158419_8655260079845408789_n_mr34rs.jpg"
+  },
+  {
+    "id": 14,
+    "marca": "Nike",
+    "modelo": "AF100 x Travis Scott",
+    "color": "White",
+    "cat": "Zapatillas",
+    "price": 376200,
+    "img": "https://res.cloudinary.com/naustorage/image/upload/v1629675306/Ropa/240451440_552776315769099_7907143493353813777_n_ov1lpq.jpg"
+  },
+  {
+    "id": 15,
+    "marca": "Adidas",
+    "modelo": "Yeezy 700 v2",
+    "color": "Cream",
+    "cat": "Zapatillas",
+    "price": 62000,
+    "img": "https://res.cloudinary.com/naustorage/image/upload/v1629675266/Ropa/240403994_198956405620703_1352494065288267358_n_sqdt8d.jpg"
+  }
+]
